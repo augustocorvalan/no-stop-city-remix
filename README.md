@@ -140,7 +140,7 @@ def generate_output():
 	return output
 ```
 
-![SCAD cube grid](./documentation/scad-cube-grid.png)
+![SCAD cube grid](./documentation/scad-grid-rotation.png)
 
 
 ## More Converters!
